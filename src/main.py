@@ -7,3 +7,5 @@ date = datetime.now().strftime("%Y-%m-%d")
 print(f" User name : {name} ")
 
 print(f"Today's date: {date}")
+
+
