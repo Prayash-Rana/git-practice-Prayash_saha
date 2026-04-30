@@ -1,5 +1,6 @@
-Project Tiile : AI Integration on Daily Life
+# Project Title: AI Integration in Daily Life
 
-name  : Prayash Saha
+**Name:** Prayash Saha  
 
-objecive :  this project will reduce the daily repeated tasks  
+## Objective
+This project aims to reduce daily repetitive tasks using AI.
